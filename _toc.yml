@@ -1,0 +1,7 @@
+format: jb-book
+root: intro
+
+chapters:
+  - file: notebooks/01_timelapse_of_congo_river
+  - file: notebooks/02_timelapse_of_congo_gee
+  - file: notebooks/03_flood_frequency_map

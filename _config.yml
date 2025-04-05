@@ -1,0 +1,6 @@
+title: PaniPath
+author: konishon
+logo: images/logo.png
+execute:
+  execute_notebooks: force
+  timeout: 1000
