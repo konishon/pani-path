@@ -1,0 +1,47 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignore the Jupyter Notebook output and results
+*.out
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tiff
+*.svg
+*.pdf
+
+# Ignore generated HTML files by Jupyter Book build
+_build/
+docs/_build/
+
+# Ignore data directory if not needed to be version controlled
+data/
+
+# Ignore configuration files for editors
+.vscode/
+.idea/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other OS-generated files
+.DS_Store
+Thumbs.db
